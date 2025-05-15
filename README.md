@@ -30,7 +30,7 @@ The dataset contains historical sales data for 45 Walmart stores across various 
 # Analysis Objectives :-
 
 1. Product Analysis
-8 Identify top-performing product lines.
+* Identify top-performing product lines.
 * Analyze product lines requiring improvement.
 
 2. Sales Analysis
