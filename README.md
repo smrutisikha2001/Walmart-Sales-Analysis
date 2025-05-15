@@ -61,39 +61,39 @@ Customer Analysis
 ## Business Questions Addressed
 
 1. Generic Question
-How many unique cities are there in the sales data have?
-In which city is each branch?
+* How many unique cities are there in the sales data have?
+* In which city is each branch?
 
 2. Product
-How many unique product lines does the data have?
-What is the most common payment method?
-Fetch some most selling product lines?
-Fetch total revenue by month?
-Fetch months along with their COGS?
-Which product line has the largest revenue?
-What city and branch has the largest revenue?
-Which product line has the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-Which branch sold more products than average product sold?
-Which is the most common product line by gender?
-What is the average rating of each product line?
+* How many unique product lines does the data have?
+* What is the most common payment method?
+* Fetch some most selling product lines?
+* Fetch total revenue by month?
+* Fetch months along with their COGS?
+* Which product line has the largest revenue?
+* What city and branch has the largest revenue?
+* Which product line has the largest VAT?
+* Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+* Which branch sold more products than average product sold?
+* Which is the most common product line by gender?
+* What is the average rating of each product line?
 
 3. Sales
-Number of sales made in each time of the day per weekday?
-Which of the customer types brings the most revenue?
-Which city has the largest tax percent/ VAT (Value Added Tax)?
-Which customer type pays the most in VAT?
+* Number of sales made in each time of the day per weekday?
+* Which of the customer types brings the most revenue?
+* Which city has the largest tax percent/ VAT (Value Added Tax)?
+* Which customer type pays the most in VAT?
 
 4. Customer
-How many unique customer types does the data have?
-How many unique payment methods does the data have?
-How many unique customer types along with the count does the data have?
-What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
+* How many unique customer types does the data have?
+* How many unique payment methods does the data have?
+* How many unique customer types along with the count does the data have?
+* What is the gender of most of the customers?
+* What is the gender distribution per branch?
+* Which time of the day do customers give most ratings?
+* Which time of the day do customers give most ratings per branch?
+* Which day fo the week has the best avg ratings?
+* Which day of the week has the best average ratings per branch?
 
 
 ## Conclusion
