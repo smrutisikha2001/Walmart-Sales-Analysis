@@ -30,18 +30,16 @@ The dataset contains historical sales data for 45 Walmart stores across various 
 # Analysis Objectives :-
 
 1. Product Analysis
+8 Identify top-performing product lines.
+* Analyze product lines requiring improvement.
 
-Identify top-performing product lines.
-Analyze product lines requiring improvement.
+2. Sales Analysis
+* Examine sales trends by product category and branch.
+* Measure the effectiveness of sales strategies.
 
-2.Sales Analysis
-
-Examine sales trends by product category and branch.
-Measure the effectiveness of sales strategies.
-
-3. Customer Analysis
-Segment customers and analyze purchasing trends.
-Assess the profitability of different customer segments.
+Customer Analysis
+* Segment customers and analyze purchasing trends.
+* Assess the profitability of different customer segments.
 
 
 ## Approach To The Project
